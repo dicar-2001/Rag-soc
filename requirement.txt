@@ -1,0 +1,11 @@
+chainlit
+opensearch-py
+rank-bm25
+transformers
+torch
+sentence-transformers
+groq
+python-docx
+PyPDF2
+
+pip install -r requirement.txt
